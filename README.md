@@ -11,9 +11,9 @@ This docker project builds an all-in-one version 7.4-01 of nuxeo over debian jes
 ## First-time build
 
 ```
-sudo -s
 git clone https://github.com/BCDevExchange/nuxeo-docker.git
 cd nuxeo-docker
+sudo -s
 chmod a+x host.sh
 . host.sh
 ```
