@@ -20,7 +20,7 @@ chmod a+x host.sh
 
 If everything goes well 
 
-1. a docker image `bcdevexchange/nuxeo` will be built locally 
+1. a docker image `bcdevexchange/nuxeo` will be built locally .
 2. a container `bcdevexchange-nuxeo` will be lanuched and run nuxeo
 3. a deamon `docker-containers` will be created to keep `bcdevexchange-nuxeo` running across server reboots
 
